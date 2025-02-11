@@ -1,0 +1,6 @@
+{
+    "teachers": [
+        { "id": 1, "name": "Anil Kumar", "subject": "Math", "gender": "Male" },
+        { "id": 2, "name": "Neha Singh", "subject": "Science", "gender": "Female" }
+    ]
+}

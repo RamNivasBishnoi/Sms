@@ -1,0 +1,6 @@
+{
+    "fees": [
+        { "student_id": 1, "amount_paid": 5000, "due_amount": 2000 },
+        { "student_id": 2, "amount_paid": 4500, "due_amount": 1000 }
+    ]
+}
