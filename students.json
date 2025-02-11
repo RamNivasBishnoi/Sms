@@ -1,11 +1,11 @@
 {
   "students": [
     {
-      "id": 2,
-      "name": "Pooja Verma",
-      "class": "9th",
-      "gender": "Female",
-      "age": 14
+      "id": 1,
+      "name": "Rahul Sharma",
+      "class": "10th",
+      "gender": "Male",
+      "age": 15
     }
   ]
 }
